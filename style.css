@@ -1,0 +1,47 @@
+
+body{
+    background-color: tan;
+} 
+.grid{
+    width:80vw;
+    margin: 80px auto;
+    border: 1px solid rgb(105, 178, 238);
+    min-height: 70svh;
+    background-color: white;
+   
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+}
+input{
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    height: 50px;
+    width: 400px;
+    align-self: center;
+    position: relative;
+    left: 38%;
+    display: flex;
+    color: black;
+background-color: rgb(175, 171, 171);
+text-align: center;
+}
+.buttn{
+background-color: darkblue;
+color: white;
+border: none;
+text-align: center;
+border-radius: 10px;
+padding: 10px;
+padding-left: 30px;
+padding-right: 30px;
+position: relative;
+    left: 38%;
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    
+}
